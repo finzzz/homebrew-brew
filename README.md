@@ -1,7 +1,5 @@
 # Homebrew formulas
-This is where my formulas initially land.
 
-## Formulas
 Name | Description | Source
 ----|--|---|
 nsc | A tool for creating NATS account and user access configurations. | [Github repo](https://github.com/nats-io/nsc)
