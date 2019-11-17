@@ -17,8 +17,16 @@ Tool that generates nkeys for NATS.
 Tool for generating TLS keys and certificates for NATS.
 
 [See the code](https://github.com/tanelmae/nats-tls)
+
+### natscmd
+Simple NATS client for quick and dirty manual configuration testing
+
+[See the code](https://github.com/tanelmae/natscmd)
+
 ### denv
 Simple docker-compose wrapper for git based projects. Wrapper so that docker-compose command can be run from any path inside git repo. Docker compose environment is expected to be in env directory in the root of the repo and it must include docker-compose.yaml.
+
+
 
 Installaton with Homebrew:
 `brew install tanelmae/brew/<formula-name>`
