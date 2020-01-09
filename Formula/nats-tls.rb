@@ -2,16 +2,16 @@
 class NatsTls < Formula
   desc "Tool for generating NATS TLS keys and certificates"
   homepage "https://github.com/tanelmae/nats-tls"
-  version "0.1.4"
+  version "0.1.5"
   bottle :unneeded
 
   if OS.mac?
-    url "http://github.com/tanelmae/nats-tls/releases/download/v0.1.4/nats-tls_0.1.4_Darwin_x86_64.tar.gz"
-    sha256 "42ee8e1798b82dae69a0846b09f597bcebbbf138e19d1309500188fb5082907b"
+    url "http://github.com/tanelmae/nats-tls/releases/download/v0.1.5/nats-tls_0.1.5_Darwin_x86_64.tar.gz"
+    sha256 "75e4fe8f24485207a74434d5758cadf51567a9d93c5ef328426c3321296940bb"
   elsif OS.linux?
     if Hardware::CPU.intel?
-      url "http://github.com/tanelmae/nats-tls/releases/download/v0.1.4/nats-tls_0.1.4_Linux_x86_64.tar.gz"
-      sha256 "c8c59a6860ad040acee162651b215a8c88e48ef24faa46d2565bb01c179f8ead"
+      url "http://github.com/tanelmae/nats-tls/releases/download/v0.1.5/nats-tls_0.1.5_Linux_x86_64.tar.gz"
+      sha256 "87f8a2bf33460b2bbb1339b8cbd2b3a2f31d86d630f0aaa283bb49dd596547e6"
     end
   end
 
