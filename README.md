@@ -7,6 +7,7 @@ nk | Tool that generates nkeys for NATS | [Github repo](https://github.com/nats-
 nats-tls | Tool for generating TLS keys and certificates for NATS | [Github repo](https://github.com/tanelmae/nats-tls)
 natscmd | NATS client for quick and dirty manual configuration testing | [Github repo](https://github.com/tanelmae/natscmd)
 denv | Docker-compose wrapper for git based projects | [Github repo](https://github.com/tanelmae/denv)
+oapi-codegen | Generate Go client and server boilerplate from OpenAPI 3 specifications | [Github repo](https://github.com/deepmap/oapi-codegen)
 
 
 ---
