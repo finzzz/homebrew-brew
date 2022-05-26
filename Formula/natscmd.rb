@@ -3,7 +3,6 @@ class Natscmd < Formula
   desc "Simple NATS client for quick and dirty manual configuration testing"
   homepage "https://github.com/tanelmae/natscmd"
   version "0.1.3"
-  bottle :unneeded
 
   if OS.mac?
     url "http://github.com/tanelmae/natscmd/releases/download/v0.1.3/natscmd_0.1.3_Darwin_x86_64.tar.gz"

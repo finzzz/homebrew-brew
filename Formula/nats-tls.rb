@@ -3,7 +3,6 @@ class NatsTls < Formula
   desc "Tool for generating NATS TLS keys and certificates"
   homepage "https://github.com/tanelmae/nats-tls"
   version "0.1.6"
-  bottle :unneeded
 
   if OS.mac?
     url "http://github.com/tanelmae/nats-tls/releases/download/v0.1.6/nats-tls_0.1.6_Darwin_x86_64.tar.gz"
