@@ -14,13 +14,13 @@
 
 Install a formula (tap added automatically):
 
-`brew install tanelmae/brew/<formula-name>`
+`brew install finzzz/brew/<formula-name>`
 
 ---
 
 Or add a tap:
 
-`brew tap tanelmae/brew`
+`brew tap finzzz/brew`
 
 Install formulas as usual:
 
