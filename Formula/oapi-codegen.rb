@@ -1,9 +1,9 @@
 class OapiCodegen < Formula
     desc "Generate Go client and server boilerplate from OpenAPI 3 specifications"
     homepage "https://github.com/deepmap/oapi-codegen"
-    url "https://github.com/deepmap/oapi-codegen/archive/v1.3.3.tar.gz"
-    sha256 "8ac96ad41682e8c5290af9cec1f18f3f72eeed4510232e65180124b869f90ce5"
-    version "1.3.3"
+    url "https://github.com/deepmap/oapi-codegen/archive/v2.4.1.tar.gz"
+    sha256 "5c9f4fdffb5910729fc0c9350f69a500306e13457da4f3889aa19bec71a69a8c"
+    version "2.4.1"
     depends_on "go"
 
     def install
